@@ -1,0 +1,15 @@
+div {
+  width: 300px;
+  height: 150px;
+  background-color: yellow; }
+  div h1 {
+    color: red;
+    width: 200px;
+    height: 100px;
+    background-color: blue; }
+  div h2 {
+    color: green; }
+  div h3 {
+    color: blue; }
+
+/*# sourceMappingURL=stype_text.css.map */
